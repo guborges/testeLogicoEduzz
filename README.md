@@ -12,7 +12,7 @@ Boa sorte e mãos a obra!
 OBS: se ainda não tem uma conta no GitHub, a hora de criar é agora! ;) 
 
 
------------- <b><h1>Explicação</h1><b> ------------
+------------ <b><h1>Explicação</h1></b> ------------
 
 No momento não tenho quase nenhum conhecimento com Laravel/lumen, fiquei na dúvida de qual seria o prazo máximo para conclusão deste trabalho, para não apresentar algo nada eficiente, criei o projeto em cima do framework que eu tenho um maior conhecimento <b>Codigniter) </b> enquanto paralelamente me aprofundo/devoro cursos em <b>Laravel</b>.
 
