@@ -1,7 +1,5 @@
-"# 
 
-
------------- Estrutura ------------
+------------ <b><h1>Estrutura</h1></b> ------------
 
 Você é o programador escolhido para criar um sistema básico, que insere, edita, exclui e lista toda a base de dados de candidatos da empresa Eduzz. Simples, mas que deve seguir alguns pré-requisitos.
 PRÉ-REQUISITOS TÉCNICOS: 
@@ -14,11 +12,7 @@ Boa sorte e mãos a obra!
 OBS: se ainda não tem uma conta no GitHub, a hora de criar é agora! ;) 
 
 
------------- Explicação ------------
+------------ <b><h1>Explicação</h1><b> ------------
 
 No momento não tenho quase nenhum conhecimento com Laravel/lumen, fiquei na dúvida de qual seria o prazo máximo para conclusão deste trabalho, para não apresentar algo nada eficiente, criei o projeto em cima do framework que eu tenho um maior conhecimento <b>Codigniter) </b> enquanto paralelamente me aprofundo/devoro cursos em <b>Laravel</b>.
 
-
-
-
-"
